@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ari
-I like Bamischijf and playing Terraria (and drawing mangas too)
+👋 Hi, I’m Ari
+- I like Bamischijf and playing Terraria (and drawing mangas too)
 
 <!---
 Azure-12/Azure-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
